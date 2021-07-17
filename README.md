@@ -1,2 +1,2 @@
 # Welcome to the Car Shop
-<p> This project is created with <code>React Native</code>
+<p> Simple car showcase created with <code>React Native</code>
